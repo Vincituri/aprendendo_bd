@@ -45,3 +45,7 @@ Sinta-se à vontade para contribuir com este projeto!
 Agradecimentos especiail a:
 
 * **@julianazanelatto** (perfil: https://github.com/julianazanelatto) pelas aulas do bootcamp e propostas de desafio
+
+## Resolução do Desafio
+
+![Entrega Desafio 01](./desafio01_entrega.png)
