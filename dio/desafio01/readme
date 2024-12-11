@@ -12,7 +12,7 @@ Neste desafio, o objetivo é **refinar a modelagem** do cenário de e-commerce, 
 
 ## Diagrama de Entidade-Relacionamento Estendido (EER)
 
-[Modelo Construído na Aula](https://github.com/Vincituri/aprendendo_bd/blob/5c64f6e05dd69f553b01dc5bf83e076f13a48616/dio/desafio01/desafio01_modelo_inicial.png)
+![Modelo Construído na Aula](dio/desafio01/desafio01_modelo_inicial.png)
 
 **Uma imagem do diagrama DER é fundamental para visualizar as relações entre as entidades.** Você pode utilizar ferramentas como:
 
